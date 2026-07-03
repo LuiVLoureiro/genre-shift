@@ -31,6 +31,11 @@ Cada linha dos dados é um **trecho de uma música** (12.495 no treino, 5.225 no
 | v13 | clusters kNN-mútuo + peso maior + 8 membros | 0,82386 | ✓✓ |
 | v14 | fração de incorporação 0,85 → 0,90 | **0,83024** | ✓✓ final |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/leaderboard_evolucao_dark.png">
+  <img src="assets/leaderboard_evolucao.png" alt="Gráfico de linha mostrando a evolução da acurácia no leaderboard do Kaggle, do SVM inicial (0,72814) até a v14 (0,83024), com as tentativas v7, v8, v10 e v12 marcadas em vermelho por terem piorado em relação à versão anterior.">
+</picture>
+
 ---
 
 ## 3. As etapas, do jeito que aconteceram
