@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# dataset da competição (ver data/README.md)
+data/*.csv
+
+# estados intermediários gerados localmente (ver artefatos/README.md)
+artefatos/*.pkl
+
+# logs do orquestrador
+*.log

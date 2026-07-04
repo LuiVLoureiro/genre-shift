@@ -123,4 +123,4 @@ Cada linha dos dados é um **trecho de uma música** (12.495 no treino, 5.225 no
 
 ---
 
-*Arquivos: notebook completo em `Classificacao_Generos_Solucao_Final.ipynb`; scripts reproduzíveis e experimentos de validação em `solucao_final/`; melhor submissão: `submissao_v14.csv` (LB 0,83024).*
+*Arquivos: notebook completo em [`Classificacao_Generos_Solucao_Final.ipynb`](Classificacao_Generos_Solucao_Final.ipynb); scripts reproduzíveis e experimento de validação da v14 em [`solucao_final/`](solucao_final/); melhor submissão: [`resultados/submissao_v14.csv`](resultados/submissao_v14.csv) (LB 0,83024); dados: ver [`data/README.md`](data/README.md).*
